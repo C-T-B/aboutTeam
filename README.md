@@ -1,2 +1,0 @@
-# aboutTeam
-aboutTeamSpring2020
